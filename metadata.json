@@ -1,0 +1,5 @@
+{
+  "name": "CryptoLearn AI",
+  "description": "An interactive web application that uses AI to generate questions and answers about various cryptocurrency topics, helping users to learn and test their knowledge in a dynamic way.",
+  "requestFramePermissions": []
+}
